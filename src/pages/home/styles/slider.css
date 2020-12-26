@@ -1,0 +1,9 @@
+.my-slider-container {
+  width: 95%;
+  margin-left: auto;
+  margin-right: auto;
+  height: auto;
+}
+.carousel-image {
+  height: 700px;
+}

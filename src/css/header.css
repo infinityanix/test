@@ -1,0 +1,6 @@
+.header {
+  height: 100px;
+  font: 1.3em sans-serif;
+  border-bottom-left-radius: 50px;
+  border-top-right-radius: 50px;
+}

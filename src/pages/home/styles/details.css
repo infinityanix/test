@@ -1,0 +1,39 @@
+.box {
+  background-color: darkslategray;
+  border-radius: 50px;
+  font: 1.3em sans-serif;
+}
+.text-center {
+  text-align: center !important;
+}
+.mt-5,
+.my-5 {
+  margin-top: 3rem !important;
+}
+.mb-4,
+.my-4 {
+  margin-bottom: 1.5rem !important;
+}
+.display-4 {
+  font-size: 3.5rem;
+}
+
+.flex-center {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  height: 100%;
+}
+.mb-5,
+.my-5 {
+  margin-bottom: 3rem !important;
+}
+.row {
+  display: flex;
+  flex-wrap: wrap;
+  margin-right: -15px;
+  margin-left: -15px;
+}
+.img-fluid {
+  border-radius: 50px;
+}
